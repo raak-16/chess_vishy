@@ -42,10 +42,9 @@ source chess_env/bin/activate
 
 pip install -r backend/requirements.txt
 
-
 3️⃣ Run backend server
 
-python backend/server.py
+uvicorn server:app --reload --host 0.0.0.0 --port 8000
 
 
 
