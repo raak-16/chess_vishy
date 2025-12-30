@@ -64,3 +64,6 @@ Training logic is available in:
 vishy_trans_trained.ipynb
 
 
+Val Loss: 1.5915
+
+
