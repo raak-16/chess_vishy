@@ -1,0 +1,25 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn.lock
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+chess_env/
+.ipynb_checkpoints/
+
+# ML / Transformers
+.cache/
+.cache/huggingface/
+models/
+*.pt
+*.bin
+*.ckpt
+
+# OS
+.DS_Store
