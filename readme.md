@@ -63,4 +63,3 @@ Training logic is available in:
 vishy_trans_trained.ipynb
 
 
-![alt text](image.png)
