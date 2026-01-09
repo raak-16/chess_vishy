@@ -1,0 +1,52 @@
+{
+  "Random Player": {
+    "accuracy": 0.0,
+    "avg_time_per_move": 0.00017786026000976562,
+    "centipawn_loss": 0.0,
+    "style_score": {
+      "anand_style_match": 0.0,
+      "tactical_accuracy": 0.0,
+      "speed": 5622.391420911528
+    }
+  },
+  "Minimax (depth=2)": {
+    "accuracy": 0.1,
+    "avg_time_per_move": 0.03097057342529297,
+    "centipawn_loss": 0.0,
+    "style_score": {
+      "anand_style_match": 0.0,
+      "tactical_accuracy": 0.1,
+      "speed": 32.28871439568899
+    }
+  },
+  "Minimax (depth=3)": {
+    "accuracy": 0.0,
+    "avg_time_per_move": 0.11021256446838379,
+    "centipawn_loss": 0.0,
+    "style_score": {
+      "anand_style_match": 0.0,
+      "tactical_accuracy": 0.0,
+      "speed": 9.073375661146745
+    }
+  },
+  "Stockfish (Elo: 2000)": {
+    "accuracy": 0.0,
+    "avg_time_per_move": 7.009506225585938e-05,
+    "centipawn_loss": 0.0,
+    "style_score": {
+      "anand_style_match": 0.0,
+      "tactical_accuracy": 0.0,
+      "speed": 14266.340136054421
+    }
+  },
+  "Stockfish (Elo: 2500)": {
+    "accuracy": 0.0,
+    "avg_time_per_move": 6.437301635742188e-05,
+    "centipawn_loss": 0.0,
+    "style_score": {
+      "anand_style_match": 0.0,
+      "tactical_accuracy": 0.0,
+      "speed": 15534.45925925926
+    }
+  }
+}
