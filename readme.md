@@ -67,3 +67,28 @@ vishy_trans_trained.ipynb
 Val Loss: 1.5915
 
 
+some other visualizations and results
+
+Loaded 500 positions from 13 games
+Evaluating position 500/500...
+============================================================
+VISHY ANAND IMITATION METRICS
+============================================================
+Total Positions Evaluated: 500
+
+Exact Match Rate: 48.80%
+  → Model picks Vishy's exact move
+
+Top-K Accuracy:
+  Top-1: 48.80%
+  Top-3: 76.20%
+  Top-5: 85.80%
+  Top-10: 94.80%
+  → Vishy's move appears in model's top-K predictions
+
+Average Rank: 3.03
+  → Mean position of Vishy's move in model's ranking
+
+Mean Reciprocal Rank (MRR): 0.6469
+  → Harmonic mean of ranks (higher = better)
+
